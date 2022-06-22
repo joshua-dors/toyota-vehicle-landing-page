@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    font-family: 'Outfit', sans-serif !important; 
+}
+
+h1 {
+    color: #373d45 !important;
+}
+
+p {
+    color: #373d45 !important;
+    font-weight: 300 !important;
+}
+
+sup {
+    color: #99a3af !important;
+    font-weight: 300 !important;
+}
+
+.bg-menu {
+    background: #f8f9fa !important;
+}
+
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+	max-width: 1120px !important;
+}
+
+.bg-menu-dark {
+    background-color: black !important;
+}
+
+.nav-link {
+    color: rgba(0,0,0,.87) !important;
+}
+
+.btn-muted {
+    background-color: #f1f1f1 !important;
+    color: #606060 !important;
+}
+
+.btn-info {
+    background-color: #0071b3 !important;
+    color: white !important;
+    border: none !important;
+}
+
+.btn {
+    padding: 0.675rem 1.5rem !important;
+    border-radius: 0.5rem !important;
+}
+
+.bg {
+    background-position: center 62%;
+    min-height: 32rem;
+    height: 100%;
+    background-size: cover;
+}
+
+.fw-400 {
+    font-weight: 400;
+}
+
+.fw-300 {
+    font-weight: 300;
+}
+
+.text-wide {
+    letter-spacing: 4px;
+}
